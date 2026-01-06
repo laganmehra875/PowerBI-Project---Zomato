@@ -28,6 +28,8 @@ The project aims to help stakeholders understand market trends, identify high-pe
 -<a href="https://github.com/laganmehra875/PowerBI-Project---Zomato/blob/main/zomato%20project.pbix"> Zomato project .pbix file </a>
 
 
+
+
 ## 🔍 Key Insights
 
 Online delivery is more prevalent in urban areas compared to suburban regions.
@@ -43,5 +45,26 @@ Cities with a higher number of restaurants show intense competition but also hig
 Customer ratings are influenced by factors such as price range, cuisine variety, and service availability.
 
 A limited number of restaurant chains dominate customer ratings and order volume.
+
+
+## 💡 Recommendations
+
+Restaurants should expand online delivery services to increase reach and revenue.
+
+Focus on high-rated cuisines to attract more customers and improve satisfaction.
+
+Competitive pricing in the mid-range segment can maximize customer traffic.
+
+New restaurants should target high-demand locations with fewer competitors.
+
+Enhancing service quality and consistency can significantly improve customer ratings.
+
+Zomato can promote top-rated local restaurants to improve platform engagement.
+
+
+
+
+
+
 
 
