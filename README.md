@@ -25,6 +25,23 @@ The project aims to help stakeholders understand market trends, identify high-pe
 
 # Zomato project with Zomato.pbix file
 
--<a href="https://github.com/laganmehra875/PowerBI-Project---Zomato/blob/main/zomato%20project.pbix"> Zomato project .pbix file</a>
+-<a href="https://github.com/laganmehra875/PowerBI-Project---Zomato/blob/main/zomato%20project.pbix"> Zomato project .pbix file </a>
+
+
+## 🔍 Key Insights
+
+Online delivery is more prevalent in urban areas compared to suburban regions.
+
+Restaurants offering online delivery tend to have higher customer engagement.
+
+Certain cuisines consistently receive higher ratings, indicating strong customer preference.
+
+Mid-range priced restaurants attract the largest number of customers.
+
+Cities with a higher number of restaurants show intense competition but also higher demand.
+
+Customer ratings are influenced by factors such as price range, cuisine variety, and service availability.
+
+A limited number of restaurant chains dominate customer ratings and order volume.
 
 
