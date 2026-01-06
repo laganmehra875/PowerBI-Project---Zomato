@@ -62,6 +62,9 @@ Enhancing service quality and consistency can significantly improve customer rat
 Zomato can promote top-rated local restaurants to improve platform engagement.
 
 
+## ✅ Conclusion
+This project demonstrates how data visualization and analysis using Power BI can uncover meaningful insights from large restaurant datasets. By analyzing pricing, ratings, cuisines, and delivery services, the dashboard provides valuable information for restaurant owners, customers, and business strategists. The findings can help optimize business decisions, improve customer experience, and drive growth in the food service industry.
+
 
 
 
