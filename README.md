@@ -22,5 +22,8 @@ The project aims to help stakeholders understand market trends, identify high-pe
 
 -<a href="https://github.com/laganmehra875/largefile/blob/main/users.xlsx">Raw Dataset used : Zomato_users</a>
 
+# Zomato project with Zomato.pbix file
+
+-<a href="https://github.com/laganmehra875/PowerBI-Project---Zomato/blob/main/zomato%20project.pbix"> Zomato project .pbix file</a>
 
 
